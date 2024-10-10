@@ -1,12 +1,12 @@
-# Pokémon Search App
+# Pokemon Search App
 
 Welcome to the Pokémon Search App! This app allows you to explore various Pokémon, search by name, filter by type, and sort by different criteria.
 
 ## Features
 
-- Search for Pokémon by name
-- Filter Pokémon by type
-- Sort Pokémon by name or base experience
+- Search for Pokemon by name
+- Filter Pokemon by type
+- Sort Pokemon by name or base experience
 - Pagination to navigate through Pokémon
 - 
 - ![image](https://github.com/user-attachments/assets/0318a586-c88f-40c1-8981-f96958421c8c)
