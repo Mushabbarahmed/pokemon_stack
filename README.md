@@ -8,6 +8,11 @@ Welcome to the Pokémon Search App! This app allows you to explore various Poké
 - Filter Pokémon by type
 - Sort Pokémon by name or base experience
 - Pagination to navigate through Pokémon
+- 
+- ![image](https://github.com/user-attachments/assets/0318a586-c88f-40c1-8981-f96958421c8c)
+
+
+
 
 ## Prerequisites
 
