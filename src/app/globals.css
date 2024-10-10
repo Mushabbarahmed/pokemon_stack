@@ -1,0 +1,27 @@
+/* src/app/globals.css */
+
+/* Import Tailwind CSS base styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles (if any) */
+.container {
+  max-width: 800px; /* Limit the width of the container */
+  margin: auto; /* Center the container */
+}
+
+
+body {
+  background-image: url('/images/none.png'); /* Replace with the path to your image */
+  background-size: cover; /* Makes the background cover the entire area */
+  background-position: center; /* Centers the background image */
+  background-repeat: no-repeat; /* Prevents repeating the image */
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #f00, #ff0); /* Change colors as needed */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
